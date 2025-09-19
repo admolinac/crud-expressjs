@@ -1,0 +1,34 @@
+{
+  "name": "crud-expressjs",
+  "version": "1.0.0",
+  "description": "Node js server to create a CRUD for the event entity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admolinac/crud-expressjs.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "crud",
+    "api"
+  ],
+  "author": "Angie Molina C.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admolinac/crud-expressjs/issues"
+  },
+  "homepage": "https://github.com/admolinac/crud-expressjs#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
