@@ -1,9 +1,15 @@
 # Event API Documentation
 
+## DEMO videos
+
+```
+https://drive.google.com/drive/folders/1dMutB0oNZ-2SsjPODZequSgRvCCHpGn4?usp=sharing
+```
+
 ## Base URL
 
 ```
-[http://localhost:3030](http://localhost:3030)
+http://localhost:3030
 ```
 
 ---
